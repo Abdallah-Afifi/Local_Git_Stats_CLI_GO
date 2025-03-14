@@ -264,5 +264,5 @@ func printDayCol(day int) {
 		out = " Fri "
 	}
 
-	fmt.Printf(out)
+	fmt.Print(out)
 }
